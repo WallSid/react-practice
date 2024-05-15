@@ -1,0 +1,14 @@
+.myBtn {
+    padding: 5px 15px;
+    color: #fff;
+    font-size: 1rem;
+    background-color: #191919;
+    border: 1px solid #000;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.myBtn:hover {
+    background-color: #fff;
+    color: #191919;
+}
